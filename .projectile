@@ -10,3 +10,6 @@
 
 # Sourcemap
 -*.map
+
+# Documentation
+-docs/
